@@ -10,7 +10,7 @@ int main() {
 
         }
         for(int j=1;j<=i;j++){  
-            cout<<"* ";
+            cout<<"* ";          //make sure to put a common space...
         }
         cout<<endl;
     }
